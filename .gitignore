@@ -2,4 +2,8 @@ checkpoints/
 depth_anything_v2/__pycache__/
 depth_anything_v2/dinov2_layers/__pycache__/
 depth_anything_v2/util/__pycache__/
+test-input-images/
+test-input-video/
+test-output-images/
+test-output-video
 
